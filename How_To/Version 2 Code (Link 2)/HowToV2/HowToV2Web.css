@@ -1,0 +1,40 @@
+/* Personal CSS Web */ 
+.row1 {
+    justify-content: start;
+}
+.row2 {
+    color: palevioletred; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-style: bold; 
+}
+.row3 { 
+    color: peachpuff; 
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-style: italic; 
+}
+.row5 {
+    color: black; 
+    font-family:'Times New Roman', Times, serif; 
+    font-style: normal;
+}
+.row6 {
+    color: palevioletred; 
+    border-color:palevioletred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.row7 {
+    color: pink; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: normal;
+}
+.row8 {
+    color: rosybrown; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: italic; 
+}
+.row9 {
+    background-color:pink; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color: palevioletred; 
+    font-style: normal; 
+}

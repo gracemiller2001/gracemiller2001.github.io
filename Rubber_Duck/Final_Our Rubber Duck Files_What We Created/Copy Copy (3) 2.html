@@ -1,0 +1,76 @@
+ <!-- Shortcut for code taught in class "! + enter key"-->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+
+    <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+  <link href= RubberDuckFinalStyles.css rel="stylesheet">
+
+    <title> Vote for favorite Ohio University event! </title>
+  </head>
+  <body>
+
+    <div class="container" class='text-center'>
+
+      <h1> Vote for your favorite Ohio University Event! </h1>
+      <h2> Select your "Favorite" and "Runner-up" events below! </h2>
+
+    </div>
+
+    <!-- Code for Name/Identity (1) -->
+    <form>
+      <div class= "row">
+        <label for= "Identity"> 1) Your Name/Preferred Identification: </label>
+        <input type= "Identification" class="identity" id="identity">
+      </div>
+
+
+    <!-- Code for Favorite Event (2) -->
+      <div class= "row">
+        <label for= "Favorite Event" class="event"> 2) Your favorite event: </label>
+        <select class="vote" id= "Favorite Event">
+          <option value= "Concerts"> Concerts </option>
+          <option value= "Confrences"> Confrences </option>
+          <option value= "Dance Nights"> Dance Nights </option>
+          <option value= "Sporting Events"> Sporting Events </option>
+        </select> 
+      </div>
+
+
+    <!-- Code for Runner-up/2nd Favorite Event (3)-->
+      <div class= "row">
+        <label for= "Second Event" class="event"> 3) Your runner-up event: </label>
+        <select class="vote" id= "Second Event">
+          <option value= "Concerts"> Concerts </option>
+          <option value= "Conferences"> Conferences </option>
+          <option value= "Dance Nights"> Dance Nights </option>
+          <option value= "Sporting Events"> Sporting Events </option>
+        </select> 
+      </div>
+
+
+    <!-- Code for Reason for Download (4)-->
+      <div class= "row">
+        <label for= "Tell Us Why!" class= "Why"> 4) Give your opinion: </label>
+        <textarea class="Why" id="Why" rows="10" placeholder='Tell Us Why!'></textarea> 
+      </div>
+
+
+    <!-- Code for Button (5)-->
+      <div class= "row">
+      <button type="Vote Completion" class="Vote">Vote</button>
+      </div>
+    </form>
+
+
+
+<!-- Included Java Script from Bootstrap Website to function-->
+  
+  </body>
+</html>

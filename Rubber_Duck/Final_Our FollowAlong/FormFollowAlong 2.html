@@ -1,0 +1,72 @@
+<!-- Shortcut for code taught in class "! + enter key"-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Send a Valentine. </title>
+
+   <!-- Bootstrap CSS -->
+   <link href= BootstrapFillableForm.css rel="stylesheet">
+
+   <title> Send a Valentine. </title>
+ </head>
+ <body>
+
+   <div class="container">
+     <h1> Send a Valentine</h1>
+   </div>
+
+   <!-- To Field (1) -->
+   <form>
+     <div class= "row">
+     <div class= "column">
+       <label for= "To" class= "to"> To: </label>
+       <input type= "text" class="text" id="text">
+     </div>
+     </div>
+
+   <!-- From Field (2) -->
+   <form>
+    <div class= "row">
+    <div class= "column">
+      <label for= "From" class= "from"> From: </label>
+      <input type= "text" class="text" id="text">
+    </div>
+    </div>
+
+
+   <!-- Selecting a Gift (3) -->
+     <div class= "row">
+       <label for= "Selecting a Gift" class="gift"> Select a Gift: </label>
+       <select class="gift" id= "gift">
+         <option value= "plush"> Plush </option>
+         <option value= "flowers"> Flowers </option>
+         <option value= "candy"> Candy </option>
+       </select> 
+     </div>
+
+
+   <!-- Creating a Message (4)-->
+     <div class= "row">
+       <label for= "Message" class= "message"> Message: </label>
+    </div>
+    <div class= "row">
+           <textarea class="day message" id="message" rows="15"> Valentine's Day Message </textarea> 
+     </div>
+
+
+   <!-- Submit Button (5)-->
+     <div class= "row">
+     <button type="Submit" class="submit"> Submit </button>
+     </div>
+   </form>
+
+
+
+<!-- Included Java Script from Bootstrap Website to function-->
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+ 
+ </body>
+</html>

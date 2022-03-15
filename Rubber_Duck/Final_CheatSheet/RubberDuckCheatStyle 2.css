@@ -1,0 +1,19 @@
+body {
+    margin-left: 8rem;
+    margin-right: 8rem;
+}
+
+.container {
+    text-align: center; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: darkgreen; 
+}
+
+h3 {
+    color: darkgreen;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
