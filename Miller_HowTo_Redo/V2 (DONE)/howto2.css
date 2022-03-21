@@ -1,0 +1,53 @@
+/* Version 2 Stylesheet */ 
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.row { 
+    align-items: center; 
+}
+.col-sm-6 {
+    padding: 1.5rem;  
+}
+.sideheading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-style: bold; 
+    font-size: 30px; 
+    color: palevioletred; 
+    background-color: pink; 
+    text-align: center; 
+}
+.sideparagraph {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-style: italic; 
+    font-size: 25px; 
+    color: goldenrod; 
+    background-color: pink; 
+    text-align: center; 
+}
+.mainheading {
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: bold; 
+    font-size: 35px; 
+    color: palevioletred;
+    padding-top: 0.2rem;  
+}
+.subheading {
+    font-family: 'Times New Roman', Times, serif; 
+    font-style: italic; 
+    font-size: 25px; 
+    color: peachpuff; 
+}
+.bodytext {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal; 
+    font-size: 18px; 
+    color: black; 
+}
+.button {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 18px;  
+    border-color: palevioletred; 
+    border-width: 5px; 
+    padding-top: 5px; 
+    padding-bottom: 5px; 
+}
