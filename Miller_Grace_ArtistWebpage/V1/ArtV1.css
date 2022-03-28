@@ -1,0 +1,55 @@
+/* V1 CSS */
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;  
+    color: burlywood; 
+}
+h2 { 
+    font-family:'Courier New', Courier, monospace;  
+    font-style:oblique;  
+    color: blanchedalmond; 
+}
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    color: white; 
+}
+p {
+    font-family:'Times New Roman', Times, serif; 
+    color: whitesmoke;  
+}
+.row {
+    align-items: center; 
+    justify-content: center; 
+}
+.button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    margin-top: 5px; 
+    margin-bottom: 5px; 
+    border-color: blanchedalmond; 
+    border-width: 3px; 
+}
+li {
+    font-family:'Times New Roman', Times, serif; 
+    color: whitesmoke;  
+}
+.bgtitle {
+    background-color: lightsteelblue !important; 
+}
+.bgsection1 {
+    background-color: teal !important; 
+}
+.bgsection2 { 
+    background-color: turquoise !important; 
+}
+.bgsection3 { 
+    background-color: goldenrod !important; 
+}
+.bgsection4 { 
+    background-color: lightskyblue !important; 
+}
+.bgsection5 { 
+    background-color: navajowhite !important; 
+}
+.bg-dark {
+    background-color: burlywood !important; 
+}
