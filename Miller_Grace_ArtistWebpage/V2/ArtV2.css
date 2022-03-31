@@ -1,0 +1,69 @@
+/* V2 CSS */
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;  
+    color: navajowhite; 
+    text-align: left;  
+}
+h2 { 
+    font-family:'Courier New', Courier, monospace;  
+    font-style:oblique;  
+    color: blanchedalmond;
+    text-align: left;  
+    font-size: 40px; 
+}
+h3 {
+    font-family:'Times New Roman', Times, serif;
+    color: white; 
+    text-align: left;
+    font-size: 25px;  
+}
+p {
+    font-family:'Times New Roman', Times, serif; 
+    color: whitesmoke;  
+    text-align: left; 
+    font-size: 18px; 
+}
+.row {
+    align-items: center; 
+    justify-content: center; 
+}
+.button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 18px; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    border-color: blanchedalmond; 
+    border-width: 10px; 
+    text-align: center;
+    width: 100%; 
+}
+li {
+    font-family:'Times New Roman', Times, serif; 
+    color: whitesmoke;  
+}
+.bgtitle {
+    background-color: lightsteelblue !important; 
+}
+.bgsection1 {
+    background-color: teal !important; 
+}
+.bgsection2 { 
+    background-color: turquoise !important; 
+}
+.bgsection3 { 
+    background-color: goldenrod !important; 
+}
+.bgsection4 { 
+    background-color: lightskyblue !important; 
+}
+.bgsection5 { 
+    background-color: rgb(235, 175, 98) !important; 
+}
+.bg-dark {
+    background-color: rgb(235, 175, 98) !important; 
+}
+iframe {
+    padding-top: 35px; 
+    padding-bottom: 35px; 
+}
