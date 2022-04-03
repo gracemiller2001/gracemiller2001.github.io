@@ -4,10 +4,11 @@ h1 {
     font-style: bold;  
     color: navajowhite; 
     text-align: left;  
+    padding-top: 140px; 
 }
 h2 { 
     font-family:'Courier New', Courier, monospace;  
-    font-style:oblique;  
+    font-style: oblique;  
     color: blanchedalmond;
     text-align: left;  
     font-size: 40px; 
@@ -17,6 +18,8 @@ h3 {
     color: white; 
     text-align: left;
     font-size: 25px;  
+    padding-top: 15px;
+    padding-bottom: 15px; 
 }
 p {
     font-family:'Times New Roman', Times, serif; 
@@ -33,14 +36,16 @@ p {
     font-size: 18px; 
     margin-top: 10px; 
     margin-bottom: 10px; 
-    border-color: blanchedalmond; 
-    border-width: 10px; 
     text-align: center;
     width: 100%; 
+    border-width: 10px; 
+    border-color:blanchedalmond; 
+    color: rgb(235, 175, 98);  
 }
 li {
     font-family:'Times New Roman', Times, serif; 
-    color: whitesmoke;  
+    color: whitesmoke; 
+    font-size: 18px;  
 }
 .bgtitle {
     background-color: lightsteelblue !important; 
@@ -64,6 +69,8 @@ li {
     background-color: rgb(235, 175, 98) !important; 
 }
 iframe {
-    padding-top: 35px; 
-    padding-bottom: 35px; 
+    padding-bottom: 100px; 
+}
+.img-fluid {
+    padding-top: 115px; 
 }
