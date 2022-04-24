@@ -1,1 +1,58 @@
-
+/* Styles for Bootstrap Homepage */
+.header {
+    color: pink; 
+    font-size: 30px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+}
+h2 {
+      text-align: center; 
+}
+h3 {
+      text-align: center; 
+}
+.nav-link {
+    color: palevioletred; 
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 16px;
+    text-align: center; 
+}
+.footer {
+    color: pink;   
+    font-size: 30px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+}
+.subtext {
+    color: pink; 
+    font-style: italic; 
+    font-size: 18px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+}
+.bodytext {
+    color: black; 
+    font-family: 'Quicksand', sans-serif;
+    text-align: center; 
+    font-size: 16px; 
+}
+nav {
+    text-align: center; 
+}
+.navbar {
+    background-color: purple !important; 
+    display: flex; 
+    justify-content: center;
+}
+.bg-dark {
+    background-color: purple !important; 
+}
+.img-fluid {
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+}
+.active {
+    background-color: purple !important; 
+    color: palevioletred !important; 
+}
