@@ -1,0 +1,80 @@
+/* Passion Project Final Styles for Lessons Page */
+.navbar {
+    background-color: goldenrod !important; 
+}
+.bg-primary {
+    background-color: purple !important; 
+}
+h1 {
+    font-family: 'Poiret One';
+    font-family: 'Unica One';
+    text-align: center;
+    padding-top: 125px; 
+    padding-bottom: 35px; 
+    font-size: 60px; 
+    color: white; 
+}
+.nav-item {
+    font-family: 'Poiret One';
+    font-family: 'Unica One';
+    font-size: 20px; 
+}
+.nav-link {
+    color: purple !important; 
+}
+h2 {
+    font-family: 'Cabin Sketch'; 
+    text-align: center; 
+    font-size: 35px; 
+    color: white; 
+    padding-bottom: 40px; 
+}
+h3 {
+    font-family: 'Poiret One';
+    font-family: 'Unica One';
+    text-align: left;  
+    padding-top: 25px; 
+    font-size: 30px; 
+    color: white; 
+    padding-bottom: 25px; 
+    margin-right: 15px; 
+    margin-left: 15px;  
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: left; 
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+    font-size: 18px; 
+    color: white; 
+    margin-right: 15px; 
+    margin-left: 15px; 
+}
+.img-fluid {
+    border-style: solid; 
+    border-color: goldenrod; 
+    border-width: 3px;
+    margin-left: 15px;  
+    margin-right: 15px; 
+}
+.button {
+    text-align: center; 
+    background-color: goldenrod; 
+    border: none; 
+    color: white; 
+    font-size: 18px; 
+    font-family: 'Roboto', sans-serif;
+    display: inline-block; 
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+    margin-right: 15px; 
+    margin-left: 15px; 
+}
+.detail {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 25px; 
+    font-size: 18px; 
+    color: white; 
+    margin-right: 15px; 
+    margin-left: 15px; 
+}

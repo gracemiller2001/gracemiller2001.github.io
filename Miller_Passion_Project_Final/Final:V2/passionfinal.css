@@ -1,0 +1,56 @@
+/* Passion Project Final Styles for Homepage */
+.navbar {
+    background-color: goldenrod !important; 
+}
+.bg-primary {
+    background-color: purple !important; 
+}
+h1 {
+    font-family: 'Poiret One';
+    font-family: 'Unica One';
+    text-align: center;
+    padding-top: 125px; 
+    padding-bottom: 35px; 
+    font-size: 75px; 
+    color: white; 
+}
+.nav-item {
+    font-family: 'Poiret One';
+    font-family: 'Unica One';
+    font-size: 20px; 
+}
+.nav-link {
+    color: purple !important; 
+}
+h2 {
+    font-family: 'Cabin Sketch'; 
+    text-align: center; 
+    font-size: 35px; 
+    color: white; 
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif; 
+    font-style: italic;
+    text-align: center; 
+    padding-top: 25px; 
+    padding-bottom: 10px; 
+    font-size: 25px; 
+    color: white; 
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    text-align: center; 
+    font-size: 18px; 
+    color: white; 
+    padding-top: 85px; 
+}
+.img-fluid {
+   border-style: solid; 
+   border-color: goldenrod; 
+   border-width: 3px; 
+   display: block; 
+   margin-left: auto; 
+   margin-right: auto; 
+   margin-top: 125px; 
+}
+
